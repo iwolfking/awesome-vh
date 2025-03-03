@@ -123,6 +123,14 @@ A curated list of awesome Vault Hunters addons and alternatives.
 
 [VH 2.5: After Dark](https://www.curseforge.com/minecraft/modpacks/after-dark-presents-vault-hunters-2-5) - A massively enhanced version of Vault Hunters 2nd Edition. (Author: a1qs, IJoshWannaPass)
 
+## Contributing
+
+If I have missed something you want added or there is new addons to add to the list, please open a Github issue with the following information:
+
+Title: Title of Addon
+URL: URL linking to addon
+Description: A brief description describing what the addon is.
+
 
 ## Disclaimer
 

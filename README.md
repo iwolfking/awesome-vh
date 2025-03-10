@@ -102,6 +102,10 @@ A curated list of awesome Vault Hunters addons and alternatives.
 
 [Vault Loafers](https://www.curseforge.com/minecraft/texture-packs/vault-loafers) - Overhauls most VH textures to be "loafified), highly recommended! (Author: breadcrumb)
 
+[Vault Cheese](https://www.curseforge.com/minecraft/texture-packs/vault-cheese) - For those who (are bad at the game) enjoy competitive advantage. Turns the following into flashing rainbow puke making them much easier to see: Vault Cakes, Vault Dungeon Doors, Vault Modification Archives, Elixir Lodestones, Hunter Ability & Treasure Goggles Particles. (Author: PINPAL, U16+)
+
+Among a few other minor features (full description available on CurseForge)
+
 [Better Focus VH](https://www.curseforge.com/minecraft/texture-packs/better-focus-vault-hunters) - Adds unique textures for Faceted Foci depending on the modifier. (Author: Artemiskhros)
 
 [Dark GUI VH](https://www.curseforge.com/minecraft/texture-packs/dark-ui-vaulthunters-1-18) - Adds a dark UI to VH menus. (Author: THE_PINPAL)

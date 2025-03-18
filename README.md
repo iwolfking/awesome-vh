@@ -3,7 +3,9 @@ A curated list of awesome Vault Hunters addons and alternatives.
 ## Legend
 
 🐺: Included in Wold's Vaults.
+
 🟠: Included in vanilla Vault Hunters.
+
 ⚫: Not receiving further updates.
 
 ## Contents

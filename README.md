@@ -23,13 +23,13 @@ A curated list of awesome Vault Hunters addons and alternatives.
 
 [Unobtainium](https://www.curseforge.com/minecraft/mc-mods/unobtanium-vault-hunters-fixes) - An addon for Vault Hunters 3rd Edition that fixes numerous bugs, dubious balance, and several unoptimized pieces of code. (U16+, Author: iwolfking, Side: Server) 🐺
 
-[VH InvHud Fix](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-invhud-fix) - Fixes an issue with Inventory Hud+ displaying Vault Gear in a broken state as the item was at full durability. (U15+, Author: ShiftTheDev, Side: Client) 🐺
+[VH InvHud Fix](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-invhud-fix) - Fixes an issue with Inventory Hud+ displaying Vault Gear in a broken state as the item was at full durability. (All Versions, Author: ShiftTheDev, Side: Client) 🐺
 
-[VaultFaster](https://www.curseforge.com/minecraft/mc-mods/vaultfaster) - Speeds up vault generation massively and decreases RAM usage in singleplayer significantly. Included in pack as of U16, but not the latest version currently. (U16+, Author: implementslegend, Side: Server, Client) 🐺🟠
+[VaultFaster](https://www.curseforge.com/minecraft/mc-mods/vaultfaster) - Speeds up vault generation massively and decreases RAM usage in singleplayer significantly. Included in pack as of U16, but not the latest version currently. (U15+, Author: implementslegend, Side: Server, Client) 🐺🟠
 
 [Vault Autocrafting Fix](https://www.curseforge.com/minecraft/mc-mods/vault-autocrafting-fix) - Fixes AE2/RS/Create autocrafting to respect research unlocks per player. (U16+, Author: T2ThatGuy, Side: Both) 🐺
 
-[VaultOptimize](https://www.curseforge.com/minecraft/mc-mods/vaultoptimise) - VaultOptimise is a mod designed to tackle the different kinds of problems that can come with Vault Hunters - significantly improving performance on all fronts. (U16+, Author: dogifiedv2, Side: Server)
+[VaultOptimize](https://www.curseforge.com/minecraft/mc-mods/vaultoptimise) - VaultOptimise is a mod designed to tackle the different kinds of problems that can come with Vault Hunters - significantly improving performance on all fronts. (U16, Author: dogifiedv2, Side: Server)
 
 
 ## QOL
@@ -50,30 +50,30 @@ A curated list of awesome Vault Hunters addons and alternatives.
 
 [Keychain](https://www.curseforge.com/minecraft/mc-mods/keychain-vault-hunters-addon) - Adds a new keychain that can hold all of your Treasure Keys, and let's you use them on treasure doors on right-click. (U16+, Author: ShiftTheDev, Side: Both)
 
-[Vault Filters](https://www.curseforge.com/minecraft/mc-mods/vault-filters) - An incredible addon that adds a ton of new attributes to Create's Attribute filters for Vault Hunters items, and lets you use Attribute Filters in several of the mods in the pack. (U16+, Author: JosephFranci, iwolfking, rizek, JustAHuman, Side: Both) 🐺
+[Vault Filters](https://www.curseforge.com/minecraft/mc-mods/vault-filters) - An incredible addon that adds a ton of new attributes to Create's Attribute filters for Vault Hunters items, and lets you use Attribute Filters in several of the mods in the pack. (U15+, Author: JosephFranci, iwolfking, rizek, JustAHuman, Side: Both) 🐺
 
-[Sophisticated Vault Upgrades](https://www.curseforge.com/minecraft/mc-mods/sophisticated-vault-upgrades) - Adds several new upgrades to Sophisticated Backpacks (and Storage if present) such as Vault Recycler, Vault Diffuser, Identification, Drop, and Activator Upgrade (which lets you use Treasure Keys from backpack). (U16+, Author: iwolfking, Side: Both) 🐺
+[Sophisticated Vault Upgrades](https://www.curseforge.com/minecraft/mc-mods/sophisticated-vault-upgrades) - Adds several new upgrades to Sophisticated Backpacks (and Storage if present) such as Vault Recycler, Vault Diffuser, Identification, Drop, and Activator Upgrade (which lets you use Treasure Keys from backpack). (U15+, Author: iwolfking, Side: Both) 🐺
 
-[VaultMapper](https://www.curseforge.com/minecraft/mc-mods/vaultmapper) - Adds an on-screen minimap when you are in a vault that shows rooms you have explored in the vault, any special rooms added by inscriptions, and lets you mark rooms as you go. (U16+, Author: Anorak, Mel, JosephFranci, rizek, Side: Client) 🐺
+[VaultMapper](https://www.curseforge.com/minecraft/mc-mods/vaultmapper) - Adds an on-screen minimap when you are in a vault that shows rooms you have explored in the vault, any special rooms added by inscriptions, and lets you mark rooms as you go. (U15+, Author: Anorak, Mel, JosephFranci, rizek, Side: Client) 🐺
 
-[Just Enough VH](https://www.curseforge.com/minecraft/mc-mods/just-enough-vh) - Adds config-driven JEI integration to many of the workstations and items that are missing them. (U16+, Author: attackeight, Side: Client) 🐺
+[Just Enough VH](https://www.curseforge.com/minecraft/mc-mods/just-enough-vh) - Adds config-driven JEI integration to many of the workstations and items that are missing them. (U15+, Author: attackeight, Side: Client) 🐺
 
 
 ## Content
 
 [VH Scaling Bingo Seals](https://www.curseforge.com/minecraft/mc-mods/vh-scaling-bingo-seals) - Adds the ability to add multiple Seal of the Prophets or Seal of the Architects (depending on configuration) to make variable sized Bingo objectives. (U16+, Author: iwolfking, Side: Server, Client) 🐺
 
-[Wold's Vaults Standalone](https://www.curseforge.com/minecraft/mc-mods/wolds-vaults-standalone) - Adds a lot of new items, blocks, objectives and gear items. Some features are not useable/not present without configuration by a modpack developer or server owner. (U16+, Author: iwolfking, Side: Both)
+[Wold's Vaults Standalone](https://www.curseforge.com/minecraft/mc-mods/wolds-vaults-standalone) - Adds a lot of new items, blocks, objectives and gear items. Some features are not useable/not present without configuration by a modpack developer or server owner. (U16, Author: iwolfking, Side: Both)
 
-[Vault Beacon](https://www.curseforge.com/minecraft/mc-mods/vault-beacon-vault-hunters-addon) - Adds a new Beacon powered by a Vault Crystal that is built out of Vault Beacon Catalysts to grant different effects. (U16+, Author: ShiftTheDev, Side: Both) 🐺
+[Vault Beacon](https://www.curseforge.com/minecraft/mc-mods/vault-beacon-vault-hunters-addon) - Adds a new Beacon powered by a Vault Crystal that is built out of Vault Beacon Catalysts to grant different effects. (U15+, Author: ShiftTheDev, Side: Both) 🐺
 
-[Vault Reagents](https://www.curseforge.com/minecraft/mc-mods/vault-reagent-vault-hunters) - Adds a new set of items: Vault Reagents, that let you convert between different player gems. (U16+, Author: Artemiskhros, Side: Both)
+[Vault Reagents](https://www.curseforge.com/minecraft/mc-mods/vault-reagent-vault-hunters) - Adds a new set of items: Vault Reagents, that let you convert between different player gems. (All Versions, Author: Artemiskhros, Side: Both)
 
-[Boss Addon](https://www.curseforge.com/minecraft/modpacks/boss-addon-for-vault-hunters-3rd) - Adds 3 new challenge rooms with bosses and a reward for killing them. (?, Author: Neone, Side: Both)
+[Boss Addon](https://www.curseforge.com/minecraft/modpacks/boss-addon-for-vault-hunters-3rd) - Adds 3 new challenge rooms with bosses and a reward for killing them. (Unknown Compatability, Author: Neone, Side: Both)
 
 [Overworld Border Extender](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-overworld-border-extend-mod) - A simple mod that allows extending the overworld border on a player exiting the vault. (U16+, Author: BONNe, Side: Server)
 
-[CC: Vault](https://www.curseforge.com/minecraft/mc-mods/cc-vault) - Adds a new Vault Reader peripheral for ComputerCraft, useful for sorting/filtering Vault gear. (U16+, Author: JosephFranci, Side: Both) 🐺
+[CC: Vault](https://www.curseforge.com/minecraft/mc-mods/cc-vault) - Adds a new Vault Reader peripheral for ComputerCraft, useful for sorting/filtering Vault gear. (U15+, Author: JosephFranci, Side: Both) 🐺
 
 [OverVaults](https://www.curseforge.com/minecraft/mc-mods/overvaults) - Adds ruined Vault Portals to the overworld. (U16+, Author: Iridium, Side: Server) 🐺
 
@@ -101,11 +101,11 @@ A curated list of awesome Vault Hunters addons and alternatives.
 
 [Vault Limiter](https://www.curseforge.com/minecraft/mc-mods/vault-limiter) - Adds the ability to limit the number of concurrent vaults. (U16+, Author: OneTwoFree, Side: Server)
 
-[Vault Seed](https://www.curseforge.com/minecraft/mc-mods/vault-seed) - Let's you set the seed of a vault on a Vault Crystal. (U16+, Author: rizek, Side: Server)
+[Vault Seed](https://www.curseforge.com/minecraft/mc-mods/vault-seed) - Let's you set the seed of a vault on a Vault Crystal. (U16, Author: rizek, Side: Server)
 
 ## Modding
 
-[Vault Hunters API](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-api) - Adds several useful features for modders, and adds datapack loading of (most) Vault Hunters config changes. (U16+, Author: iwolfking, Side: Server, Client) 🐺
+[Vault Hunters API](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-api) - Adds several useful features for modders, and adds datapack loading of (most) Vault Hunters config changes. (U15+, Author: iwolfking, Side: Server, Client) 🐺
 
 
 ## Resource Packs

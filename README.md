@@ -38,9 +38,9 @@ A curated list of awesome Vault Hunters addons and alternatives.
 
 [Raw Vault QOL](https://www.curseforge.com/minecraft/mc-mods/raw-vault-qol-vault-hunters-3-addon) - A simple mod that makes vanilla immortality work in Raw/Resource vaults, trinkets no longer use charges in a Raw vault, and trinkets no longer use charge when you enter a Paradox Build vault. (U16+, Author: rizek, Side: Server) 🐺
 
-[Vault Hunters Better Junk Table](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-better-junk-table) - Adds sorting, search, and drag-and-drop from JEI to the Junk Controller. (U16+, Author: BONNe, Side: Both) 🐺
+[Vault Hunters Better Junk Table](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-better-junk-table) - Adds sorting, search, and drag-and-drop from JEI to the Junk Controller. (U16, Author: BONNe, Side: Both) - archived, and not updated past u16
 
-[Vault Hunters Better Gear Model Unlocks](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-better-gear-model-unlocks) - Increases the chance of unlocking Vault Gear models that haven't been unlocked yet, similar to how trinkets work. (U16+, Author: BONNe, Side: Both)
+[Vault Hunters Better Gear Model Unlocks](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-better-gear-model-unlocks) - Increases the chance of unlocking Vault Gear models that haven't been unlocked yet, similar to how trinkets work. (U16, Author: BONNe, Side: Both) - archived, and not updated past u16
 
 [VHat Can I Roll?](https://www.curseforge.com/minecraft/mc-mods/vhat-can-i-roll-vault-hunters-3-addon) - Adds a new button to the Vault Menu that shows all possible gear modifiers, transmogs, and uniques for all of the different gear pieces in Vault Hunters. (U16+, Author: rizek, Side: Client) 🐺
 
@@ -71,7 +71,7 @@ A curated list of awesome Vault Hunters addons and alternatives.
 
 [Boss Addon](https://www.curseforge.com/minecraft/modpacks/boss-addon-for-vault-hunters-3rd) - Adds 3 new challenge rooms with bosses and a reward for killing them. (Unknown Compatability, Author: Neone, Side: Both)
 
-[Overworld Border Extender](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-overworld-border-extend-mod) - A simple mod that allows extending the overworld border on a player exiting the vault. (U16+, Author: BONNe, Side: Server)
+[Overworld Border Extender](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-overworld-border-extend-mod) - A simple mod that allows extending the overworld border on a player exiting the vault. (U16, Author: BONNe, Side: Server) - archived, and not updated past u16
 
 [CC: Vault](https://www.curseforge.com/minecraft/mc-mods/cc-vault) - Adds a new Vault Reader peripheral for ComputerCraft, useful for sorting/filtering Vault gear. (U15+, Author: JosephFranci, Side: Both) 🐺
 
@@ -85,15 +85,15 @@ A curated list of awesome Vault Hunters addons and alternatives.
 
 ## Server Utility
 
-[VH Server Config Sync](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-server-config-sync) - Adds a new config that can be used to configurably sync vault hunters configs from the server to the client. (U16+, Author: BONNe, Side: Both) 🐺
+[VH Server Config Sync](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-server-config-sync) - Adds a new config that can be used to configurably sync vault hunters configs from the server to the client. (U16, Author: BONNe, Side: Both) - archived, and not updated past u16 
 
-[VH Extra Commands](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-extra-commands) - Adds a ton of useful commands for server admins to allow more adjustments to vaults. (U16+, Author: BONNe, Side: Server)
+[VH Extra Commands](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-extra-commands) - Adds a ton of useful commands for server admins to allow more adjustments to vaults. (U16, Author: BONNe, Side: Server) - archived, and not updated past u16
 
-[VH Extra Gamerules](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-extra-game-rules) - Adds a bunch of new gamerules for fine tuning the vault hunters experience. (U16+, Author: BONNe, Side: Server)
+[VH Extra Gamerules](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-extra-game-rules) - Adds a bunch of new gamerules for fine tuning the vault hunters experience. (U16, Author: BONNe, Side: Server) - archived, and not updated past u16
 
 [VH Smart Research Cost](https://www.curseforge.com/minecraft/mc-mods/vh-smart-research-cost-vault-hunters-3-addon) - Changes the calculation of research team cost to support players that start playing later than the rest of a team. (U16+, Author: rizek, Side: Both)
 
-[VH Discord Bot Connector](https://www.curseforge.com/minecraft/mc-mods/vaulthunters-dc-bot-connector) - Adds support to several Discord Integration mods to display item tooltips in the discord chat, and display vault entering/exiting messages. (U16+, Author: BONNe, Side: Server)
+[VH Discord Bot Connector](https://www.curseforge.com/minecraft/mc-mods/vaulthunters-dc-bot-connector) - Adds support to several Discord Integration mods to display item tooltips in the discord chat, and display vault entering/exiting messages. (U16, Author: BONNe, Side: Server) - archived, and not updated past u16
 
 [VH Player Reset](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-player-reset) - Adds a few commands useful for resetting a player's vault data. (U16+, Author: gargoyle, Side: Server)
 

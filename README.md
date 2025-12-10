@@ -25,7 +25,7 @@ A curated list of awesome Vault Hunters addons and alternatives.
 
 [VH InvHud Fix](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-invhud-fix) - Fixes an issue with Inventory Hud+ displaying Vault Gear in a broken state as the item was at full durability. (All Versions, Author: ShiftTheDev, Side: Client) 🐺
 
-[VaultFaster](https://www.curseforge.com/minecraft/mc-mods/vaultfaster) - Speeds up vault generation massively and decreases RAM usage in singleplayer significantly. Included in pack as of U16, but not the latest version currently. (U15+, Author: implementslegend, Side: Server, Client) 🐺🟠
+[VaultFaster](https://www.curseforge.com/minecraft/mc-mods/vaultfaster) - Speeds up vault generation massively and decreases RAM usage in singleplayer significantly. (was include in base pack as of Update 16, highly recommended to use for older versions)
 
 [Vault Autocrafting Fix](https://www.curseforge.com/minecraft/mc-mods/vault-autocrafting-fix) - Fixes AE2/RS/Create autocrafting to respect research unlocks per player. (U16+, Author: T2ThatGuy, Side: Both) 🐺
 
@@ -44,7 +44,7 @@ A curated list of awesome Vault Hunters addons and alternatives.
 
 [VHat Can I Roll?](https://www.curseforge.com/minecraft/mc-mods/vhat-can-i-roll-vault-hunters-3-addon) - Adds a new button to the Vault Menu that shows all possible gear modifiers, transmogs, and uniques for all of the different gear pieces in Vault Hunters. (U16+, Author: rizek, Side: Client) 🐺
 
-[Kendrome's VH Tweaks](https://www.curseforge.com/minecraft/mc-mods/kendromes-vault-hunters-tweaks) - Adds gear comparison tooltips and some other useful tooltip information to vault items. (U16+, Author: kendrome, Side: Client) 🐺
+[Kendrome's VH Tweaks](https://www.curseforge.com/minecraft/mc-mods/kendromes-vault-hunters-tweaks) - Adds gear comparison tooltips and some other useful tooltip information to vault items. (U16+, Author: kendrome, Side: Client) 
 
 [Coin Pouch](https://www.curseforge.com/minecraft/mc-mods/coin-pouch-vault-hunters-addon) - Adds a new pouch to hold all of your Vault Currency, which can be automatically pulled from to pay for Shop pedestals, and all vault workstations that use coins. (U16+, Author: ShiftTheDev, Side: Both)
 
@@ -58,6 +58,9 @@ A curated list of awesome Vault Hunters addons and alternatives.
 
 [Just Enough VH](https://www.curseforge.com/minecraft/mc-mods/just-enough-vh) - Adds config-driven JEI integration to many of the workstations and items that are missing them. (U15+, Author: attackeight, Side: Client) 🐺
 
+[Vault Hunters Item Sorting](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-item-sorting) - Sorts your gear, jewels and other items by their rarity and other attributes in vanilla and modded inventories 🐺
+
+[Highlight Map Markers](https://www.curseforge.com/minecraft/mc-mods/highlight-map-markers) - This mod adds a highlight to map markers similar to how hunters sense works making it easier to find a marked location. Requires Vault Hunters to function. (U19+, Author: TheLoreAxe) 🐺
 
 ## Content
 
@@ -83,6 +86,10 @@ A curated list of awesome Vault Hunters addons and alternatives.
 
 [Skin Fighters](https://www.curseforge.com/minecraft/mc-mods/skin-fighters) - Enables skins for Vault Fighters like there used to be in VH2. (U16+, Author: rizek, Side: Server, Client (Both recommended)) 🐺
 
+[Custom Companions](https://www.curseforge.com/minecraft/mc-mods/custom-companions) - Custom skins for your VH companions
+
+[Companion Workstation](https://www.curseforge.com/minecraft/mc-mods/vh-companion-workstation) - Adds companion workbench utility blocks to vault hunters 3 (Author: Lawliet, QiyanaMark)
+
 ## Server Utility
 
 [VH Server Config Sync](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-server-config-sync) - Adds a new config that can be used to configurably sync vault hunters configs from the server to the client. (U16, Author: BONNe, Side: Both) - archived, and not updated past u16 
@@ -93,7 +100,7 @@ A curated list of awesome Vault Hunters addons and alternatives.
 
 [VH Smart Research Cost](https://www.curseforge.com/minecraft/mc-mods/vh-smart-research-cost-vault-hunters-3-addon) - Changes the calculation of research team cost to support players that start playing later than the rest of a team. (U16+, Author: rizek, Side: Both)
 
-[VH Discord Bot Connector](https://www.curseforge.com/minecraft/mc-mods/vaulthunters-dc-bot-connector) - Adds support to several Discord Integration mods to display item tooltips in the discord chat, and display vault entering/exiting messages. (U16, Author: BONNe, Side: Server) - archived, and not updated past u16
+[VH Discord Bot Connector](https://www.curseforge.com/minecraft/mc-mods/vaulthunters-dc-bot-connector) - Adds support to several Discord Integration mods to display item tooltips in the discord chat, and display vault entering/exiting messages. (U16, Author: BONNe, Side: Server) - archived, and not updated past u16 - use my fork (https://github.com/iwolfking/VaultHuntersDiscordIntegrator)
 
 [VH Player Reset](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-player-reset) - Adds a few commands useful for resetting a player's vault data. (U16+, Author: gargoyle, Side: Server)
 
@@ -103,6 +110,8 @@ A curated list of awesome Vault Hunters addons and alternatives.
 
 [Vault Seed](https://www.curseforge.com/minecraft/mc-mods/vault-seed) - Let's you set the seed of a vault on a Vault Crystal. (U16, Author: rizek, Side: Server)
 
+[Vault Hunters Command Blacklist](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-command-blacklist) - A mod that allows you to blacklist certain commands from being ran inside Vaults. (Supports all versions, Author: iwolfking, Side: Server) 
+
 ## Modding
 
 [Vault Hunters API](https://www.curseforge.com/minecraft/mc-mods/vault-hunters-api) - Adds several useful features for modders, and adds datapack loading of (most) Vault Hunters config changes. (U15+, Author: iwolfking, Side: Server, Client) 🐺
@@ -111,6 +120,8 @@ A curated list of awesome Vault Hunters addons and alternatives.
 ## Resource Packs
 
 [Vault Loafers](https://www.curseforge.com/minecraft/texture-packs/vault-loafers) - Overhauls most VH textures to be "loafified), highly recommended! (Author: breadcrumb) 🐺⚫
+
+[Qiyana's Valley](https://www.curseforge.com/minecraft/texture-packs/qiyanas-valley) - Cartoonish / Pixel art style resource pack for Vault Hunters 🐺 (Author: QiyanaMark)
 
 [Vault Cheese](https://www.curseforge.com/minecraft/texture-packs/vault-cheese) - For those who (are bad at the game) enjoy competitive advantage. Turns the following into flashing rainbow puke making them much easier to see: Vault Cakes, Vault Dungeon Doors, Vault Modification Archives, Elixir Lodestones, Hunter Ability & Treasure Goggles Particles. (Author: PINPAL, U16+)
 
